@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! I'm Constance, a passionate mobile developer with a focus on building seamless and intuitive user experiences. I specialize in React Native and am currently working on an exciting project. I'm excited to collaborate with like-minded individuals on innovative projects.<br>
+<br>Highly motivated full stack developer with expertise in React, TypeScript, and Django. Proficient in building scalable web and mobile applications using Expo and Firebase. Passionate about delivering high-quality solutions and continuously learning new technologies.<br>
 
 
 ## 🌐 Socials:
